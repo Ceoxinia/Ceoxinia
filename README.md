@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maroua
-- 👀 I’m a software engineer , IA and data analytics enthusiast
-- 🌱 I’m currently learning more about IA
-- 💞️ I’m looking to collaborate on Some robotics x IA projects 
+- 👀 I’m a software engineer , AI and data analytics enthusiast
+- 🌱 I’m currently learning more about AI
+- 💞️ I’m looking to collaborate on Some robotics x AI projects 
 - 📫 How to reach me : mllekhemissimaroua@gmail.com
 
 <!---
