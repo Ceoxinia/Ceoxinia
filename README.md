@@ -5,7 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Software and Systems Engineer , currently persuing a Master degree in Intelligent information Systems aka AI in University of Science and Technology USTHB.
+- 🎓 &nbsp; Software and Information Systems Engineer , currently persuing a Master degree in Intelligent computer Systems
+in USTHB.
 - 💼 &nbsp; Working as a web developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
