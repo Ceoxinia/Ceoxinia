@@ -1,5 +1,6 @@
 <h2> Hey there! I'm Maroua.</h2>
 
+<img alt="GIF" src="https://tenor.com/view/hu-tao-ghost-wave-hello-genshin-impact-gif-26220156"/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
