@@ -1,6 +1,7 @@
 <h2> Hey there! I'm Maroua.</h2>
 
-<img alt="GIF" src="https://tenor.com/view/hu-tao-ghost-wave-hello-genshin-impact-gif-26220156.gif"/>
+<div class="tenor-gif-embed" data-postid="26220156" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hu-tao-ghost-wave-hello-genshin-impact-gif-26220156">Hu Tao Ghost GIF</a>from <a href="https://tenor.com/search/hu+tao-gifs">Hu Tao GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
