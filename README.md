@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Maroua.</h2>
-<img alt="GIF" src="https://media.tenor.com/O7unvQUuZr0AAAAd/hu-tao-ghost.gif" width = 200/>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
