@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and UI/UX design.
 - 🎓 &nbsp; Software and Information Systems Engineer , currently persuing a Master degree in Intelligent computer Systems
 in USTHB.
 - 💼 &nbsp; Working as a web developer.
