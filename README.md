@@ -4,16 +4,17 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and UI/UX design.
-- 🎓 &nbsp; Software and Information Systems Engineer , currently persuing a Master degree in Intelligent computer Systems
-in USTHB.
-- 💼 &nbsp; Working as a web developer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Intelligent Systems Engineer.
+- 💼 &nbsp; Working as a Data scientist.
+- 🌱 &nbsp; Learning more about Quantum Computing and Artificial Intelligence.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Dash](https://img.shields.io/badge/-DASH-333333?style=flat&logo=DASH)
+  ![Jupyter](https://img.shields.io/badge/-JUPYTER-333333?style=flat&logo=Jupyter)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
